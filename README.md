@@ -1,2 +1,2 @@
-# interproductec
-interproductec website
+# Website Template
+Corporate website
